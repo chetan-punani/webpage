@@ -1,0 +1,107 @@
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    color: white;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+
+#menu-tag{
+    font-size: 30px;
+}
+
+#menu-padding{
+    padding-left: 700px;
+ }
+
+#middle-section{
+    margin-left: 50px;
+}
+
+h2{
+    font-size: 70px;
+}
+
+.card {
+    background-color: #eb4034;
+    width: auto;
+    height: auto;
+    margin-left: 60px;
+    margin-right: 70px;
+    padding-bottom: 30px;
+}
+
+#cardcolor{
+  background-color: #212120;
+}
+
+.img-style{
+    padding-top: 40px;
+    padding-left: 18px;
+    height: 50px;
+    width: 50px;
+}
+  
+#last-section{
+    margin-top: 30px;
+}
+  
+.container {
+   padding: 2px 16px;
+}
+
+#hr-middle{
+  border: 1px solid #eb4034; 
+  max-width: 100px;
+  margin-left: 0px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+}
+
+#hr-card1{
+  border: 1px solid white; 
+  max-width: 30px;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+#hr-card2{
+  border: 1px solid #eb4034; 
+  max-width: 30px;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+#btn{
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: black;
+  border: 1px solid #eb4034; 
+}
